@@ -1,0 +1,14 @@
+layout_spectrum: 0.6691491
+color:
+  saturation: 0.2819135
+  lightness: 0.00751507
+  brandStrength: 0.153799
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#6D6D6D'
+    - '#A8A8A8'
+    - '#292929'
+  rhythmicContrast: 0.9998868
+typography_spectrum: 0.5050302
+name: CrowdedSpace
